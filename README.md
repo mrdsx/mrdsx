@@ -2,12 +2,16 @@
 
 ###
 
+<h3 align="center">Stats</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrdsx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdsx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<h3>Skills</h3>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
@@ -36,6 +40,8 @@
 </div>
 
 ###
+
+<h3>Reach me out</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo"  />
