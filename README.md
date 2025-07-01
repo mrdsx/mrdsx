@@ -37,6 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="32" alt="vs code logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" height="32" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="32" alt="vite logo"  />
 </div>
 
 ###
