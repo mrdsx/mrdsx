@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is mrdsx and I'm a Beginner Fullstack Developer from Russia.</h2>
+<h2 align="left">Hi 👋! My name is mrdsx and I'm a Beginner Web Developer from Russia.</h2>
 
 ###
 
