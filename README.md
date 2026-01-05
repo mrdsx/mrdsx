@@ -29,12 +29,9 @@
 
 <h3>Reach me out</h3>
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)
 
 <p>
-  
-  📫 **Discord**: gemabody_ <br />
   📩 **Gmail**: kingofakneser@gmail.com
 </p>
 
