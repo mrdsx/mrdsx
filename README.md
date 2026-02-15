@@ -1,13 +1,22 @@
-<h2 align="left">Hi 👋! My name is mrdsx and I'm a Beginner Web Developer from Russia.</h2>
+<h2>Hi 👋! My name is mrdsx and I'm a Beginner Web Developer from Russia.</h2>
 
 ###
 
-<h3 align="center">Stats</h3>
+<h3>Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-navy-91.vercel.app/api?username=mrdsx&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-eight-navy-91.vercel.app/api/top-langs?username=mrdsx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3>About me</h3>
+
+- 🌆 I specialize in frontend (Typescript & React) with little knowledge about backend (Python & FastAPI)
+- ⚒️ I built [Olympiad Preparation](https://olympiad-preparation.vercel.app) web application with real users
+- 💙 I love writing type-safe and robust code with TypeScript
+- ⚡ I'm open for learning and adapting new technologies
 
 ###
 
@@ -38,7 +47,7 @@
 
 <p>
   
-  📩 **Gmail**: kingofakneser@gmail.com
+  📩 **E-mail**: kingofakneser@gmail.com
 </p>
 
 ###
