@@ -1,30 +1,22 @@
-<h2>Hi 👋! My name is mrdsx and I'm a Beginner Web Developer from Russia.</h2>
+## Hi 👋! My name is mrdsx and I'm a Web Developer.
 
-###
-
-<h3>Stats</h3>
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-navy-91.vercel.app/api?username=mrdsx&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-eight-navy-91.vercel.app/api/top-langs?username=mrdsx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### About me
 
-<h3>About me</h3>
+- 🌆 I specialize in frontend (React) with extra backend (Firebase)
+- 💙 I write type-safe and robust code with TypeScript
+- ⚒️ I built several projects with real users (see them in my [portfolio](https://mrdsx.vercel.app))
 
-- 🌆 I specialize in frontend (Typescript & React) with little knowledge about backend (Python & FastAPI)
-- ⚒️ I built [Olympiad Preparation](https://olympiad-preparation.vercel.app) web application with real users
-- 💙 I love writing type-safe and robust code with TypeScript
-- ⚡ I'm open for learning and adapting new technologies
-
-###
-
-<h3>Skills</h3>
+### Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,13 +34,6 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-###
+### Reach me out
 
-<h3>Reach me out</h3>
-
-<p>
-  
-  📩 **E-mail**: kingofakneser@gmail.com
-</p>
-
-###
+📩 **E-mail**: kingofakneser@gmail.com
